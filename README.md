@@ -26,4 +26,4 @@ Dataset URL: [owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-co
 ## Output 
 The output is an interactive plot showing the daily new COVID-19 cases and deaths in Turkey. Users can hover over the plot to see detailed values for each date.
 
-![](images/plot.png)
+![](https://github.com/ksyaren/data_visualization/blob/main/graph.png)
